@@ -11,3 +11,12 @@ Important concept used in React JS:-
 2. useEffect
 3. Toast and Icons addes
 4. Functions and reloading acitvity in ReactJs
+
+   Steps to start the Project:-
+1. Npm i
+2. Npms start
+
+
+Note:- if React Script is not added in your json file add by below command:
+npm i react-scripts
+
