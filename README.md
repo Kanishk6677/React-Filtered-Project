@@ -13,8 +13,8 @@ Important concept used in React JS:-
 4. Functions and reloading acitvity in ReactJs
 
    Steps to start the Project:-
-1. Npm i
-2. Npms start
+i> Npm i
+ii> Npms start
 
 
 Note:- if React Script is not added in your json file add by below command:
